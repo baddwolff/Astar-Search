@@ -1,0 +1,26 @@
+20 23
+Karnataka
+Bangladesh
+
+Karnataka, Mumbai, 75
+Karnataka, Chikmagalur, 140
+Karnataka, Erode, 118
+Mumbai, Hassan, 71
+Hassan, Chikmagalur, 151
+Erode, Kerala, 111
+Chikmagalur, Madras, 99
+Chikmagalur, Pune, 80
+Kerala, Indore, 70
+Madras, Bangladesh, 211
+Pune, Vellore, 97
+Pune, Tumkur, 146
+Indore, Gujrat, 75
+Bangladesh, Vellore, 101
+Bangladesh, Shimoga, 85
+Vellore, Tumkur, 138
+Tumkur, Gujrat, 120
+Shimoga, JK, 98
+Shimoga, Delhi, 142
+JK, punjab, 86
+Delhi, Rajasthan, 92
+Rajasthan, Pakistan, 87
